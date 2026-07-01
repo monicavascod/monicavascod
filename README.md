@@ -2,9 +2,9 @@
 
 # 👋 ¡Hola! Soy **Mónica Vasco Domínguez**
 
-🎯 QA Engineer, apasionada por asegurar la calidad de software en aplicaciones web, móviles y APIs. <br>
-💻 Con experiencia en diseño y ejecución de pruebas manuales, reporte de bugs y validación de datos en bases de datos.  
-🚀 En transición desde roles administrativos hacia el mundo tech, aplicando disciplina, organización y atención al detalle.  
+🎯 QA Analyst enfocada en detectar errores antes de que lleguen al usuario, mediante pruebas manuales y automatizadas.
+💻 He desarrollado proyectos de testing en aplicaciones web y APIs, creando y ejecutando casos de prueba, documentando defectos, validando datos con SQL y automatizando pruebas con Selenium.
+🚀 Actualmente fortaleciendo mis habilidades en automatización e inteligencia artificial aplicada al testing. 
 
 ---
 
